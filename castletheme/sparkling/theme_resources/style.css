@@ -230,7 +230,7 @@ textarea {
   border-radius: 3px;
   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
   clip: auto !important;
-  color: #21759b;
+  color: #219b75;
   display: block;
   font-size: 14px;
   font-weight: bold;
@@ -584,7 +584,7 @@ object {
   text-transform: uppercase;
   margin-bottom: 25px;
   margin-top: 0;
-  color: #636467;
+  color: #636764;
 }
 #secondary .widget a {
   color: #C1C0C0;
@@ -912,7 +912,7 @@ button:hover, .button:hover {
 }
 .dropdown-menu > li > a {
   padding: 10px 15px;
-  color: #636467;
+  color: #636764;
 }
 .dropdown-menu,
 .dropdown-menu > .active > a,
@@ -1013,7 +1013,7 @@ p.logged-in-as {
     list-style: none;
 }
 .comment .comment-body {
-  background-color: #ffffff;
+  background-color: #fff;
   margin: 0;
   overflow: hidden;
   padding: 25px;
@@ -1230,7 +1230,7 @@ p.logged-in-as {
 ----------------------------------------------- */
 
 #footer-area {
-  background-color: #313233;
+  background-color: #313332;
   color: #999;
 }
 #footer-area a {
@@ -1391,34 +1391,34 @@ p.logged-in-as {
 #menu-social li a span{ display: none; }
 
 #menu-social li a[href*="facebook.com"]:hover {
-  background-color: #4265b9 !important;
+  background-color: #42b965 !important;
 }
 #menu-social li a[href*="twitter.com"]:hover {
   background-color: #55ACEE !important;
 }
 #menu-social li a[href*="dribbble.com"]:hover {
-  background-color: #ea4c89 !important;
+  background-color: #ea894c !important;
 }
 #menu-social li a[href*="flickr.com"]:hover {
-  background-color: #ff0084 !important;
+  background-color: #ff8400 !important;
 }
 #menu-social li a[href*="plus.google.com"]:hover {
-  background-color: #d62408 !important;
+  background-color: #d60824 !important;
 }
 #menu-social li a[href*="skype.com"]:hover {
-  background-color: #0bbff2 !important;
+  background-color: #0bf2bf !important;
 }
 #menu-social li a[href*="pinterest.com"]:hover {
-  background-color: #c31e26 !important;
+  background-color: #c3261e !important;
 }
 #menu-social li a[href*="linkedin.com"]:hover {
-  background-color: #005987 !important;
+  background-color: #008759 !important;
 }
 #menu-social li a[href*="vimeo.com"]:hover {
-  background-color: #1bb6ec !important;
+  background-color: #1becb6 !important;
 }
 #menu-social li a[href*="tumblr.com"]:hover {
-  background-color: #35506b !important;
+  background-color: #356b50 !important;
 }
 #menu-social li a[href*="youtube.com"]:hover {
   background-color: #df3333 !important;
@@ -1427,7 +1427,7 @@ p.logged-in-as {
   background-color: #F95B60 !important;
 }
 #menu-social li a[href*="/feed"]:hover {
-  background-color: #f39c12 !important;
+  background-color: #f3129c !important;
 }
 #menu-social li a[href*="foursquare.com"]:hover {
   background-color: #2398C9 !important;
@@ -1439,10 +1439,10 @@ p.logged-in-as {
   background-color: #4183C4 !important;
 }
 #menu-social li a[href*="xing.com"]:hover {
-  background-color: #006567 !important;
+  background-color: #006765 !important;
 }
 #menu-social li a[href*="spotify.com"]:hover {
-  background-color: #81b71a !important;
+  background-color: #811ab7 !important;
 }
 #menu-social li a[href*="mailto"]:hover {
   background-color: #DA4453 !important;

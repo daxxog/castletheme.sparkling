@@ -767,8 +767,8 @@ function customizer_custom_scripts() { ?>
     });
 </script>
 <style>
-    li#accordion-section-sparkling_important_links h3.accordion-section-title, li#accordion-section-sparkling_important_links h3.accordion-section-title:focus { background-color: #00cc00 !important; color: #fff !important; }
-    li#accordion-section-sparkling_important_links h3.accordion-section-title:hover { background-color: #00b200 !important; color: #fff !important; }
+    li#accordion-section-sparkling_important_links h3.accordion-section-title, li#accordion-section-sparkling_important_links h3.accordion-section-title:focus { background-color: #00c !important; color: #fff !important; }
+    li#accordion-section-sparkling_important_links h3.accordion-section-title:hover { background-color: #0000b2 !important; color: #fff !important; }
     li#accordion-section-sparkling_important_links h3.accordion-section-title:after { color: #fff !important; }
 </style>
 <?php
